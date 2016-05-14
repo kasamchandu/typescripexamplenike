@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5435cd52-5432-4aa2-b013-13ec8d172924" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.Spec.ts" afterPath="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.Spec.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.scss" afterPath="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.ts" afterPath="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/datepicker-component.html" afterPath="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/datepicker-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repos/web-nikeelite/src/app/pages/app-component/AppComponent.ts" afterPath="$PROJECT_DIR$/repos/web-nikeelite/src/app/pages/app-component/AppComponent.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repos/web-nikeelite/src/resources/i18n/en-US.json" afterPath="$PROJECT_DIR$/repos/web-nikeelite/src/resources/i18n/en-US.json" />
+    </list>
+    <ignored path="Nikedev1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Nikedev1">
+      <favorite_root url="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.Spec.ts" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="datepicker-component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/datepicker-component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatePickerComponent.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1475">
+              <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatePickerComponent.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="295" column="39" selection-start-line="295" selection-start-column="16" selection-end-line="295" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatePickerComponent.Spec.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.Spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="108" column="22" selection-start-line="108" selection-start-column="15" selection-end-line="108" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/repos/web-nikeelite" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/repos/web-nikeelite" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/page-footer/page-footer.html" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/dist/app/pages/cart/cart.html" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/sampleapp.ts" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/mydatepicker.ts" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/interfaces.ts" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/scss/App.scss" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/page-header/PageHeader.ts" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/dist/app/components/datepicker-component/datepicker-component.html" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/dist/resources/css/nike-glyphs.css" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/datepicker-component.Spec.ts" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/Datepicker-component.Spec.ts" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/page-header/page-header.html" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/helpmenu-component/HelpMenuComponent.scss" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/dist/app/components/datepicker-component/DatePickerComponent.js" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/gulpfile.js" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/helpmenu-component/HelpMenuComponent.ts" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/pages/cart/cart.html" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/dropdown-component/DropDownComponent.scss" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/models/DatepickerOption.ts" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/dist/css/App.css" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/scss/_colors.scss" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/dropdown-component/dropdown-component.html" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/pages/cart/CartPageComponent.ts" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/page-header/PageHeader.scss" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/resources/i18n/en-US.json" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/pages/app-component/AppComponent.ts" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.scss" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/datepicker-component.html" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.Spec.ts" />
+        <option value="$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/repos/web-nikeelite/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <task-name>browser-sync</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="copy-index:dev" />
+            </dependencies>
+            <task-name>build-index:dev</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="copy-index:prod" />
+            </dependencies>
+            <task-name>build-index:prod</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="copy-unit-tests" />
+            </dependencies>
+            <task-name>build-unit-tests</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="clean" />
+            </dependencies>
+            <task-name>build:dev</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="clean" />
+            </dependencies>
+            <task-name>build:prod</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>ci:dist</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>ci:linting</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>ci:test</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>clean</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>clean:all</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="tslint" />
+            </dependencies>
+            <task-name>compile-ts:dev</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="tslint" />
+            </dependencies>
+            <task-name>compile-ts:prod</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>concat-libs</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>copy-assets</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>copy-index:dev</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>copy-index:prod</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>copy-libs</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>copy-templates</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>copy-unit-tests</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>embed-templates</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>jsonlint</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>karma</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>remap-istanbul</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="sasslint" />
+            </dependencies>
+            <task-name>sass:dev</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="sasslint" />
+            </dependencies>
+            <task-name>sass:prod</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>sasslint</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>server</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="copy-assets" />
+              <dependency value="copy-libs" />
+            </dependencies>
+            <task-name>setup:dev</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>sonar</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>test</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>tslint</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="copy-templates" />
+            </dependencies>
+            <task-name>watch-html</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="sass:dev" />
+            </dependencies>
+            <task-name>watch-scss</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="compile-ts:dev" />
+            </dependencies>
+            <task-name>watch-ts</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1046" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="C:\Nikedev1\repos\web-nikeelite\node_modules\gulp" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/resources/i18n/en-US.json&#10;appcomponen.ts&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/pages/app-component/AppComponent.ts&#10;datep&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.Spec.ts&#10;cart&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/pages/cart/CartPageComponent.ts&#10;en&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/resources/i18n/en-US.json&#10;scss&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/scss/_colors.scss&#10;drop&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/components/dropdown-component/DropDownComponent.Spec.ts&#10;datepicker&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.ts&#10;en-Us&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/resources/i18n/en-US.json&#10;fonts&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/scss/_fonts.scss&#10;appcompo&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/pages/app-component/AppComponent.ts&#10;i18&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/node_modules/angular2/i18n.js&#10;app co&#9;null&#9;null&#10;scss.fonts&#9;null&#9;null&#10;app.scss&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/scss/App.scss&#10;date&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/components/datepicker-component/datepicker-component.html&#10;en-us.js&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/resources/i18n/en-US.json&#10;datepi&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.Spec.ts&#10;en-u&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/resources/i18n/en-US.json&#10;dropdow&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/components/dropdown-component/DropDownComponent.ts&#10;datepicker.ts&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.ts&#10;DatePickerComponent.ts&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.ts&#10;datePicker&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/dist/app/components/datepicker-component/datepicker-component.html&#10;cartCompo&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/pages/cart/CartPageComponent.ts&#10;datepicker.scs&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.scss&#10;enus&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/resources/i18n/en-US.json&#10;app&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/dist/css/App.css&#10;DatePicker&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.ts&#10;dropdown&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/components/dropdown-component/DropDownComponent.scss&#10;dropdowncomponent.html&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/dist/app/components/dropdown-component/dropdown-component.html&#10;datepicker-component.ts&#9;null&#9;null&#10;dr&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/components/dropdown-component/DropDownComponent.ts&#10;datepicker.t&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.ts&#10;g72-nano&#9;null&#9;null&#10;g72-nan&#9;null&#9;null&#10;datepicker.js&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/dist/app/components/datepicker-component/DatePickerComponent.js&#10;ca&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/pages/cart/CartPageComponent.ts&#10;dropdowncomponent.js&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/dist/app/components/dropdown-component/DropDownComponent.js&#10;da&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/dist/app/components/datepicker-component/DatePickerComponent.js&#10;r&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/dist/app/components/datepicker-component/datepicker-component.html&#10;app.css&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/dist/css/App.css&#10;dat&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.scss&#10;app.&#9;FILE&#9;file://C:/Nikedev1/repos/web-nikeelite/src/app/pages/app-component/AppComponent.scss" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Nikedev1\repos\web-nikeelite\src\app\components\datepicker-component" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gulp.js.default">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Nikedev1" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="default" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/repos/web-nikeelite/gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Gulp.js.default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5435cd52-5432-4aa2-b013-13ec8d172924" name="Default" comment="" />
+      <created>1461270050128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1461270050128</updated>
+      <workItem from="1461270052148" duration="9248000" />
+      <workItem from="1461291143503" duration="32343000" />
+      <workItem from="1461437774017" duration="45113000" />
+      <workItem from="1461520368188" duration="7000" />
+      <workItem from="1461536578500" duration="7743000" />
+      <workItem from="1461599286748" duration="20923000" />
+      <workItem from="1461641699978" duration="2281000" />
+      <workItem from="1461671064446" duration="23262000" />
+      <workItem from="1461707818576" duration="383723000" />
+      <workItem from="1462847130390" duration="23478000" />
+      <workItem from="1462916591524" duration="1003000" />
+      <workItem from="1462917608206" duration="26900000" />
+    </task>
+    <task id="LOCAL-00001" summary="datepicker-component">
+      <created>1461615415835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1461615415835</updated>
+    </task>
+    <task id="LOCAL-00002" summary="datepicker-component">
+      <created>1461622398344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1461622398344</updated>
+    </task>
+    <task id="LOCAL-00003" summary="datepicker-component">
+      <created>1461687373133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1461687373133</updated>
+    </task>
+    <task id="LOCAL-00004" summary="datepicker-component">
+      <created>1461690941750</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1461690941750</updated>
+    </task>
+    <task id="LOCAL-00005" summary="datepicker-component">
+      <created>1461774880382</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1461774880382</updated>
+    </task>
+    <task id="LOCAL-00006" summary="datepicker-component">
+      <created>1461778169304</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1461778169304</updated>
+    </task>
+    <task id="LOCAL-00007" summary="datepicker-component">
+      <created>1461800143551</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1461800143551</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'remotes/origin/master' into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/scss/App.scss&#10;">
+      <created>1461863068617</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1461863068617</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'remotes/origin/master' into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/scss/App.scss&#10;">
+      <created>1461863111910</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1461863111910</updated>
+    </task>
+    <task id="LOCAL-00010" summary="formating scss&#10;">
+      <created>1461962432882</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1461962432882</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updating changes based on the code review.">
+      <created>1462293456413</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1462293456413</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge branch 'master' of https://git.nike.net/nikeelite/web-nikeelite into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/app/pages/cart/CartPageComponent.ts&#10;">
+      <created>1462294754468</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1462294754468</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updating changes from master">
+      <created>1462295179503</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1462295179503</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updating changes from master">
+      <created>1462391342258</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1462391342258</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge branch 'master' of https://git.nike.net/nikeelite/web-nikeelite into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/app/components/dropdown-component/dropdown-component.html&#10;updating from master">
+      <created>1462391983880</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1462391983880</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge branch 'master' of https://git.nike.net/nikeelite/web-nikeelite into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/app/components/dropdown-component/dropdown-component.html&#10;working on SCSS">
+      <created>1462399847063</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1462399847063</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge branch 'datepicker-component' of https://git.nike.net/nikeelite/web-nikeelite into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/app/components/datepicker-component/DatePickerComponent.scss&#10;">
+      <created>1462466655281</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1462466655281</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge branch 'datepicker-component' of https://git.nike.net/nikeelite/web-nikeelite into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/app/components/datepicker-component/DatePickerComponent.scss&#10;chnages made as per code  review">
+      <created>1462466749297</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1462466749297</updated>
+    </task>
+    <task id="LOCAL-00019" summary="working on datepicker for mobile">
+      <created>1462491641341</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1462491641341</updated>
+    </task>
+    <task id="LOCAL-00020" summary="working on datepicker for mobile">
+      <created>1462491955728</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1462491955728</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Working on the updated stuff for the datepicker mobile version &amp; desktop">
+      <created>1462818933465</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1462818933465</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Merge remote-tracking branch 'remotes/origin/master' into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/app/components/datepicker-component/DatePickerComponent.scss&#10;workog on date picker mobile">
+      <created>1462819536390</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1462819536390</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="576024000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32760736" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.03685504" sideWeight="0.5053996" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.012958963" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.04171779" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4368098" sideWeight="0.49460045" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21253072" sideWeight="0.49784017" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2537797" sideWeight="0.54478526" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2537797" sideWeight="0.4552147" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34601226" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49508598" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22462203" sideWeight="0.53562653" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="datepicker-component" />
+    <MESSAGE value="Merge remote-tracking branch 'remotes/origin/master' into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/scss/App.scss&#10;" />
+    <MESSAGE value="formating scss&#10;" />
+    <MESSAGE value="Updating changes based on the code review." />
+    <MESSAGE value="Merge branch 'master' of https://git.nike.net/nikeelite/web-nikeelite into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/app/pages/cart/CartPageComponent.ts&#10;" />
+    <MESSAGE value="Updating changes from master" />
+    <MESSAGE value="Merge branch 'master' of https://git.nike.net/nikeelite/web-nikeelite into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/app/components/dropdown-component/dropdown-component.html&#10;updating from master" />
+    <MESSAGE value="Merge branch 'master' of https://git.nike.net/nikeelite/web-nikeelite into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/app/components/dropdown-component/dropdown-component.html&#10;working on SCSS" />
+    <MESSAGE value="Merge branch 'datepicker-component' of https://git.nike.net/nikeelite/web-nikeelite into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/app/components/datepicker-component/DatePickerComponent.scss&#10;" />
+    <MESSAGE value="Merge branch 'datepicker-component' of https://git.nike.net/nikeelite/web-nikeelite into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/app/components/datepicker-component/DatePickerComponent.scss&#10;chnages made as per code  review" />
+    <MESSAGE value="working on datepicker for mobile" />
+    <MESSAGE value="Working on the updated stuff for the datepicker mobile version &amp; desktop" />
+    <MESSAGE value="Merge remote-tracking branch 'remotes/origin/master' into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/app/components/datepicker-component/DatePickerComponent.scss&#10;workog on date picker mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'remotes/origin/master' into datepicker-component&#10;&#10;# Conflicts:&#10;#&#9;src/app/components/datepicker-component/DatePickerComponent.scss&#10;workog on date picker mobile" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/dropdown-component/DropDownComponent.ts</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/dist/app/components/datepicker-component/DatePickerComponent.Spec.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/dist/app/components/datepicker-component/datepicker-component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/dist/css/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="747" column="27" selection-start-line="747" selection-start-column="27" selection-end-line="747" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/dist/resources/images/calendar-desktop.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/dist/resources/images/3d Swoosh - Desktop.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/resources/images/Nike logo.PNG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/dist/resources/images/3d Swoosh - Mobile.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/dist/app/components/datepicker-component/DatePickerComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="278" column="52" selection-start-line="278" selection-start-column="46" selection-end-line="278" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/index.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1825">
+          <caret line="73" column="7" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/resources/images/calendar-desktop.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/node_modules/angular2/i18n.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/resources/i18n/es-MX.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/helpmenu-component/HelpMenuComponent.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/dist/resources/i18n/en-US.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/scss/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/pages/cart/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/pages/login-page/LoginPageComponent.Spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/pages/login-page/LoginPage.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/scss/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/page-header/PageHeader.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/scss/App.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/node_modules/ng2-translate/src/translate.service.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="426" column="3" selection-start-line="426" selection-start-column="3" selection-end-line="426" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/helpmenu-component/HelpMenuComponent.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/scss/_colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/dropdown-component/DropDownComponent.Spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="77" column="7" selection-start-line="77" selection-start-column="7" selection-end-line="77" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/helpmenu-component/helpmenu-component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/dropdown-component/dropdown-component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/dropdown-component/DropDownComponent.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1675">
+          <caret line="67" column="21" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/dist/app/components/dropdown-component/DropDownComponent.Spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-850">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/dropdown-component/DropDownComponent.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/models/DropdownOption.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/pages/cart/CartPageComponent.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="47" column="63" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/page-header/page-header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4225">
+          <caret line="169" column="62" selection-start-line="169" selection-start-column="57" selection-end-line="169" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/page-footer/page-footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/pages/login-page/login-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/tslint.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/resources/i18n/en-US.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-790">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/pages/app-component/AppComponent.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/pages/app-component/AppComponent.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/http-services/UserHttpService.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#1#70#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/pages/cart/Cart.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="814" column="12" selection-start-line="814" selection-start-column="12" selection-end-line="814" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1475">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.Spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="108" column="22" selection-start-line="108" selection-start-column="15" selection-end-line="108" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/node_modules/typescript/lib/lib.core.es6.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="799" column="9" selection-start-line="799" selection-start-column="4" selection-end-line="799" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/DatePickerComponent.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="295" column="39" selection-start-line="295" selection-start-column="16" selection-end-line="295" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/web-nikeelite/src/app/components/datepicker-component/datepicker-component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
